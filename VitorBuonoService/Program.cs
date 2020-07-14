@@ -6,33 +6,23 @@ namespace VitorBuonoService
     class Program
     {
         #region Nested classes to support running as service
-        public const string ServiceName = "VitorBuonoService";
         static IDisposable timerService;
         static bool stop = false;
 
-        public class Service : System.ServiceProcess.ServiceBase
+        public class Service : ServiceBase
         {
-            public Service()
-            {
-                ServiceName = ServiceName;
-            }
+            public Service() => ServiceName = "VitorBuonoService";
 
-            protected override void OnStart(string[] args)
-            {
-                Program.OnStart(args);
-            }
+            protected override void OnStart(string[] args) => Program.OnStart(args);
 
-            protected override void OnStop()
-            {
-                Program.OnStop();
-            }
+            protected override void OnStop() => Program.OnStop();
         }
         #endregion
 
         internal static void OnStart(string[] args)
         {
             log4net.Config.XmlConfigurator.Configure();
-            timerService = new TimerService();
+            timerService = new SyncManager();
         }
         internal static void OnStop()
         {

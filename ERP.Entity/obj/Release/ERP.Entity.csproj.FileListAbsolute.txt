@@ -1,0 +1,5 @@
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity\bin\Release\ERP.Entity.dll
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity\bin\Release\ERP.Entity.pdb
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity\obj\Release\ERP.Entity.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity\obj\Release\ERP.Entity.dll
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity\obj\Release\ERP.Entity.pdb

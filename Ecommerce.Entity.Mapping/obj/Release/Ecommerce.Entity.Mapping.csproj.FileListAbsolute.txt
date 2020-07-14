@@ -1,0 +1,5 @@
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\bin\Release\Ecommerce.Entity.Mapping.dll
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\bin\Release\Ecommerce.Entity.Mapping.pdb
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Release\Ecommerce.Entity.Mapping.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Release\Ecommerce.Entity.Mapping.dll
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Release\Ecommerce.Entity.Mapping.pdb

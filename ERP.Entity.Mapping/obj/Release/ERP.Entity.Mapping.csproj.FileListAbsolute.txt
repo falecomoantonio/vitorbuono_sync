@@ -1,0 +1,5 @@
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\bin\Release\ERP.Entity.Mapping.dll
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\bin\Release\ERP.Entity.Mapping.pdb
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Release\ERP.Entity.Mapping.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Release\ERP.Entity.Mapping.dll
+C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Release\ERP.Entity.Mapping.pdb

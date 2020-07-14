@@ -1,14 +1,15 @@
-﻿using System;
+﻿using log4net;
+using System;
 using System.ComponentModel;
 using System.Timers;
 
 namespace VitorBuonoService
 {
-    public class TimerService : IDisposable
+    public class SyncManager : IDisposable
     {
         #region Private Members
 
-        // private readonly ILog logger = LogManager.GetLogger("TimerService");
+        private readonly ILog logger = LogManager.GetLogger("SyncManager");
         private readonly Timer timerControl;
         private readonly BackgroundWorker backgroundWorker = new BackgroundWorker();
 
@@ -16,7 +17,7 @@ namespace VitorBuonoService
 
         #region Constructor
 
-        public TimerService()
+        public SyncManager()
         {
             backgroundWorker.DoWork += SyncTasks;
             timerControl = new Timer(5 * 1000);

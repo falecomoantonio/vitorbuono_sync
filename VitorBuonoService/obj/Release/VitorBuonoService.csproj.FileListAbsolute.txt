@@ -1,0 +1,3 @@
+C:\Workspace\Projects\VitorBuonoService\VitorBuonoService\obj\Release\VitorBuonoService.csprojAssemblyReference.cache
+C:\Workspace\Projects\VitorBuonoService\VitorBuonoService\obj\Release\VitorBuonoService.exe.config
+C:\Workspace\Projects\VitorBuonoService\VitorBuonoService\obj\Release\VitorBuonoService.csproj.CoreCompileInputs.cache

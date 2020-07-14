@@ -1,0 +1,5 @@
+C:\Workspace\Projects\VitorBuonoService\Common\bin\Release\Common.dll
+C:\Workspace\Projects\VitorBuonoService\Common\bin\Release\Common.pdb
+C:\Workspace\Projects\VitorBuonoService\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\VitorBuonoService\Common\obj\Release\Common.dll
+C:\Workspace\Projects\VitorBuonoService\Common\obj\Release\Common.pdb

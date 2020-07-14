@@ -1,0 +1,5 @@
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity\bin\Release\Ecommerce.Entity.dll
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity\bin\Release\Ecommerce.Entity.pdb
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity\obj\Release\Ecommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity\obj\Release\Ecommerce.Entity.dll
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity\obj\Release\Ecommerce.Entity.pdb
