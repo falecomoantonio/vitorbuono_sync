@@ -1,0 +1,6 @@
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\bin\Debug\Ecommerce.Entity.Mapping.dll
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\bin\Debug\Ecommerce.Entity.Mapping.pdb
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Debug\Ecommerce.Entity.Mapping.csprojAssemblyReference.cache
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Debug\Ecommerce.Entity.Mapping.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Debug\Ecommerce.Entity.Mapping.dll
+C:\Workspace\Projects\VitorBuonoService\Ecommerce.Entity.Mapping\obj\Debug\Ecommerce.Entity.Mapping.pdb
