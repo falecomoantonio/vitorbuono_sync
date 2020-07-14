@@ -34,7 +34,7 @@ namespace VitorBuonoService
         {
             try
             {
-
+                Console.WriteLine("Iniciando a aplicação!");
             }
             catch(Exception ex)
             { 

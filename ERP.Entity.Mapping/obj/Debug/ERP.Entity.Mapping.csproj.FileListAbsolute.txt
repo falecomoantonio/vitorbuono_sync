@@ -1,6 +1,0 @@
-C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\bin\Debug\ERP.Entity.Mapping.dll
-C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\bin\Debug\ERP.Entity.Mapping.pdb
-C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Debug\ERP.Entity.Mapping.csprojAssemblyReference.cache
-C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Debug\ERP.Entity.Mapping.csproj.CoreCompileInputs.cache
-C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Debug\ERP.Entity.Mapping.dll
-C:\Workspace\Projects\VitorBuonoService\ERP.Entity.Mapping\obj\Debug\ERP.Entity.Mapping.pdb
